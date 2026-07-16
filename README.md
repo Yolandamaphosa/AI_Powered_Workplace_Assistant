@@ -129,21 +129,58 @@ Create a weekly schedule from the following tasks. Group tasks by category (meet
 
 ## Screenshots
 
-### Landing Page
-See:
+# Application Screenshots
 
-### Dashboard
-See: Dashboard.jpeg
+## Landing Page
 
-### AI Chat Assistant
-See: AIChatAssistantPage.jpeg
+![Landing Page](LandingPage.jpeg)
 
-### AI Research Assistant
-See: AIResearchAssistantPage.jpeg
+The landing page introduces Synapse, an AI-powered workplace assistant designed to improve productivity through intelligent research, workplace communication, email generation, and task scheduling.
 
-### Smart Email Generator
-See: EmailGeneratorPage.jpeg
+---
 
-### AI Task Scheduler
-See: TaskSchedulerPage.jpeg
+## Dashboard
 
+![Dashboard](DashboardPage.jpeg)
+
+The dashboard provides a centralized view of all workplace productivity tools and allows users to navigate seamlessly between application modules.
+
+---
+
+## AI Research Assistant
+
+![AI Research Assistant](AIResearchAssistant.jpeg)
+
+The AI Research Assistant enables users to summarize content, simplify complex information, and generate actionable workplace insights.
+
+---
+
+## AI Chat Assistant
+
+![AI Chat Assistant](AIChatAssistantPage.jpeg)
+
+The AI Chat Assistant provides a conversational interface where users can ask workplace-related questions and receive structured AI-generated responses.
+
+---
+
+## Smart Email Generator
+
+![Smart Email Generator](EmailGeneratorPage.jpeg)
+
+The Smart Email Generator helps users create professional emails and generate different tone variations for workplace communication.
+
+---
+
+## AI Task Scheduler
+
+![AI Task Scheduler](TaskSchedulerPage.jpeg)
+
+The AI Task Scheduler assists users with organizing daily and weekly activities, prioritizing tasks, and improving time management.
+
+---
+
+## Settings Page
+
+![Settings Page](SettingsPage.jpeg)
+
+The Settings page allows users to customize their experience and manage application preferences.
