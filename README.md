@@ -127,5 +127,23 @@ Generate a structured daily plan based on the following tasks. Prioritize by urg
 Weekly Plan Prompt
 Create a weekly schedule from the following tasks. Group tasks by category (meetings, deadlines, personal focus). Highlight urgent items in bold. Suggest one productivity tip for the week.
 
+## Screenshots
 
+### Landing Page
+See:
+
+### Dashboard
+See: Dashboard.jpeg
+
+### AI Chat Assistant
+See: AIChatAssistantPage.jpeg
+
+### AI Research Assistant
+See: AIResearchAssistantPage.jpeg
+
+### Smart Email Generator
+See: EmailGeneratorPage.jpeg
+
+### AI Task Scheduler
+See: TaskSchedulerPage.jpeg
 
