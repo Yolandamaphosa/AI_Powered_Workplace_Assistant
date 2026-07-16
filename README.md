@@ -42,7 +42,7 @@ In Scope Feature List:
 
  
 
-#Out of Scope Feature List: 
+# Out of Scope Feature List: #
 
   Performing Complex Data Analysis 
 
@@ -50,7 +50,7 @@ In Scope Feature List:
 
   Processing sensitive Company data 
 
-#Deliverables ad documentation: 
+# Deliverables ad documentation: #
 
   Mock –up of AI powered workplace assistant 
 
@@ -59,7 +59,7 @@ In Scope Feature List:
   Training manuals for users 
 
 
-#Timeline: 
+# Timeline: 
 
    6 months for development and iteration and 9 months for rollout.  
 
