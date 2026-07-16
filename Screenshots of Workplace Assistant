@@ -1,15 +1,47 @@
-## Application Preview
+# Application Screenshots
 
-### AI Workplace Assistant (Synapse)
+## Landing Page
 
-The current prototype demonstrates the user interface for an AI-powered workplace productivity platform designed to assist users with:
 
-- Research and information summarisation
-- Workplace AI chat assistance
-- Professional email generation
-- Daily and weekly task scheduling
 
-#### Landing Page
+The landing page introduces Synapse and its key workplace productivity features.
 
-screenshots/landing-page.png
+---
 
+## Dashboard
+
+dashboard.jpeg
+
+The dashboard provides quick access to all AI-powered workplace tools.
+
+---
+
+## AI Research Assistant
+
+![search-assistant.jpeg
+
+The AI Research Assistant supports summarization, simplification, and workplace insight generation.
+
+---
+
+## AI Chat Assistant
+
+chat-assistant.jpeg
+
+Users can interact with a workplace-focused AI assistant through a conversational interface.
+
+---
+
+## Smart Email Generator
+
+email-generator.jpeg
+
+Users can generate professional emails and switch between different tones.
+
+---
+
+## AI Task Scheduler
+
+task-scheduler.jpeg
+
+The scheduler helps users create structured daily and weekly work plans.
