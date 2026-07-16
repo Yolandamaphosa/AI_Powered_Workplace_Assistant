@@ -74,4 +74,21 @@ Assistance: The assistant the processes the request by routing question to the n
 Execution: Assistant then completes the action and confirms with the user.
 Follow-up:Assistant offers proactive suggestions to steamline the users workflow and productivity. 
 
+# AI Workplace Assistant (Synapse)
+
+## Live Prototype
+
+🚀 [Launch AI Workplace Assistant](https://workplace-assist.lovable.app)
+
+## Project Overview
+
+AI Workplace Assistant is an intelligent productivity tool built to help professionals work smarter by automating repetitive tasks, improving task management, and reducing administrative workload.
+
+## Features
+
+- AI Research Assistant
+- AI Chat Assistant
+- Smart Email Generator
+- AI Task Scheduler 
+
 
